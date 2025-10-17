@@ -25,7 +25,7 @@ Complete Striver's A2Z DSA Sheet in 3 months and ace technical interviews!
 ## 📚 Resources
 - [Striver's A2Z Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 - [Striver's YouTube Channel](https://www.youtube.com/@takeUforward)
-- My LeetCode Profile: [Add your profile link]
+- My LeetCode Profile:(https://leetcode.com/u/divyaborade09/)
 
 ## 📈 Daily Log
 
